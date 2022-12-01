@@ -58,3 +58,28 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Major_Manuals/.vsconfig
+Major_Manuals/ProjectSettings/AudioManager.asset
+Major_Manuals/ProjectSettings/ClusterInputManager.asset
+Major_Manuals/ProjectSettings/DynamicsManager.asset
+Major_Manuals/ProjectSettings/EditorBuildSettings.asset
+Major_Manuals/ProjectSettings/EditorSettings.asset
+Major_Manuals/ProjectSettings/GraphicsSettings.asset
+Major_Manuals/ProjectSettings/InputManager.asset
+Major_Manuals/ProjectSettings/NavMeshAreas.asset
+Major_Manuals/ProjectSettings/PackageManagerSettings.asset
+Major_Manuals/ProjectSettings/Physics2DSettings.asset
+Major_Manuals/ProjectSettings/PresetManager.asset
+Major_Manuals/ProjectSettings/ProjectSettings.asset
+Major_Manuals/ProjectSettings/ProjectVersion.txt
+Major_Manuals/ProjectSettings/QualitySettings.asset
+Major_Manuals/ProjectSettings/TagManager.asset
+Major_Manuals/ProjectSettings/TimeManager.asset
+Major_Manuals/ProjectSettings/UnityConnectSettings.asset
+Major_Manuals/ProjectSettings/VersionControlSettings.asset
+Major_Manuals/ProjectSettings/VFXManager.asset
+Major_Manuals/ProjectSettings/XRSettings.asset
+Major_Manuals/Logs/Packages-Update.log
+Major_Manuals/Packages/manifest.json
+Major_Manuals/Packages/packages-lock.json
+Major_Manuals/Logs/shadercompiler-UnityShaderCompiler0.log
